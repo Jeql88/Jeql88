@@ -2,22 +2,21 @@
 
 Full-stack developer. BSIT third-year at the University of San Carlos, Cebu, graduating July 2026. Software Development Intern at SKANLOG, shipping production Vue.js + .NET + Azure applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](<PORTFOLIO_URL>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jeql8.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-edward-lui-893a7032a/)
 
 ---
 
 ## Currently building
 
-- **Network Management System** — Project Manager and Lead Developer on a C#/.NET WPF + PostgreSQL/EF Core client-server system managing 80+ production PCs, packaged as an MSI installer for one-step rollout. → [iris-capstone-project](https://github.com/Jeql88/iris-capstone-project)
 - **AI-Powered Talent Acquisition Platform @ SKANLOG** — Embedding-based candidate matching with Azure OpenAI and cosine similarity in C#. JWT auth, role-based access, deployed to Azure App Service with Azure SQL Server and Key Vault.
-- **Real-time Room Reservation System @ SKANLOG** — Vue.js front-end and .NET backend with conflict-detection booking flow and an admin dashboard, on the same Azure stack.
 
 ## Past work
-
+- **Network Management System** — Project Manager and Lead Developer on a C#/.NET WPF + PostgreSQL/EF Core client-server system managing 80+ production PCs, packaged as an MSI installer for one-step rollout. → [iris-capstone-project](https://github.com/Jeql88/iris-capstone-project)
+- **Real-time Room Reservation System @ SKANLOG** — Vue.js front-end and .NET backend with conflict-detection booking flow and an admin dashboard, on the same Azure stack.
 - **Collaborative Drawing Web App** — Multi-user whiteboard with sub-100ms canvas sync over Socket.IO, MongoDB session persistence, Dockerized. → [whitebored-frontend](https://github.com/Jeql88/whitebored-frontend)
 - **Hotel Management System** — Project Lead on a Go + Hasura + PostgreSQL microservices booking platform with JWT and role-based access.
-- **This portfolio** — Next.js, shadcn/ui, Gemini-backed RAG chatbot, deployed on Vercel. → [<PORTFOLIO_URL>](<PORTFOLIO_URL>)
+- **This portfolio** — Next.js, shadcn/ui, Gemini-backed RAG chatbot, deployed on Vercel. → [<PORTFOLIO_URL>](https://jeql8.vercel.app/)
 
 ## Stack
 
