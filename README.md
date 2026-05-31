@@ -1,71 +1,36 @@
-# 👋 Hi, I'm Josh
+# Josh Edward Lui
 
-I'm building **IRIS** — a modular network management system for academic labs that helps instructors monitor performance, manage software, and keep classrooms running smoothly.
+Full-stack developer. BSIT third-year at the University of San Carlos, Cebu, graduating July 2026. Software Development Intern at SKANLOG, shipping production Vue.js + .NET + Azure applications.
 
-I enjoy working on projects that combine practical problem-solving with innovation
-
-
-## 💻 Core Tech Stack
-
-<details>
-<summary><strong>Languages</strong></summary>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-</details>
-
-<details>
-<summary><strong>Frontend & UI</strong></summary>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</details>
-
-<details>
-<summary><strong>Backend & Database</strong></summary>
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</details>
-
-<details>
-<summary><strong>Cloud & Tools</strong></summary>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-</details>
-
-## 📊 GitHub Stats
-
-<details>
-<summary><strong>Activity Overview</strong></summary>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeql88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-</details>
-
-<details>
-<summary><strong>Most Used Languages</strong></summary>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeql88&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</details>
-
-<details>
-<summary><strong>Contribution Streak</strong></summary>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeql88&theme=dark&hide_border=false)
-</details>
-
-## 💬 Let's Connect
-
-**Ask me about:** Network management systems, real-time applications, API development, classroom automation, or any of the tech above!
+[Portfolio](https://jeql8.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/josh-edward-lui-893a7032a/) · joshedlui4@gmail.com
 
 ---
 
-*Building tools that make a difference in education and beyond* 🚀
+## Currently building
+
+- **Network Management System** — Project Manager and Lead Developer on a C#/.NET WPF + PostgreSQL/EF Core client-server system managing 80+ production PCs, packaged as an MSI installer for one-step rollout. → [iris-capstone-project](https://github.com/Jeql88/iris-capstone-project)
+- **AI-Powered Talent Acquisition Platform @ SKANLOG** — Embedding-based candidate matching with Azure OpenAI and cosine similarity in C#. JWT auth, role-based access, deployed to Azure App Service with Azure SQL Server and Key Vault.
+- **Real-time Room Reservation System @ SKANLOG** — Vue.js front-end and .NET backend with conflict-detection booking flow and an admin dashboard, on the same Azure stack.
+
+## Past work
+
+- **Collaborative Drawing Web App** — Multi-user whiteboard with sub-100ms canvas sync over Socket.IO, MongoDB session persistence, Dockerized. → [whitebored-frontend](https://github.com/Jeql88/whitebored-frontend)
+- **Hotel Management System** — Project Lead on a Go + Hasura + PostgreSQL microservices booking platform with JWT and role-based access.
+- **This portfolio** — Next.js, shadcn/ui, Gemini-backed RAG chatbot, deployed on Vercel. → [<PORTFOLIO_URL>](<PORTFOLIO_URL>)
+
+## Stack
+
+**Backend** &nbsp;&nbsp; C#, .NET, ASP.NET Core, Entity Framework Core, Node.js, Express, Go
+**Frontend** &nbsp;&nbsp; Vue.js, React, Next.js, TailwindCSS
+**Data** &nbsp;&nbsp; PostgreSQL, Microsoft SQL Server, MongoDB, Supabase
+**Cloud & AI** &nbsp;&nbsp; Azure App Service, Azure SQL Server, Azure Key Vault, Azure OpenAI, vector embeddings, RAG pipelines
+
+## Recent
+
+- Graduating July 2026 from USC Cebu — GPA 1.35 / 5.00, Magna Cum Laude eligible
+- 3rd Place, National Programming Challenge (Codechum, October 2025)
+- 1 of 2 students selected for the USC-sponsored exchange at the Asian Institute of Technology, Thailand (September 2024)
+- 3rd Place, Global Business Summer Camp, Saigon Business School, Vietnam (April 2025)
+- Certifications: PhilNITS Fundamentals of IT (April 2026), CCNAv7, CyberOps Associate, DataCamp Data Analyst Associate
+
+Based in Cebu City. Open to opportunities.
