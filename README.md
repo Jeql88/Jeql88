@@ -4,7 +4,6 @@ Full-stack developer. BSIT third-year at the University of San Carlos, Cebu, gra
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](<PORTFOLIO_URL>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-edward-lui-893a7032a/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joshedlui4@gmail.com)
 
 ---
 
