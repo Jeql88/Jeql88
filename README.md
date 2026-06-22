@@ -13,7 +13,8 @@ Full-stack developer. BSIT third-year at the University of San Carlos, Cebu, gra
 
 ## Past work
 - **Network Management System** — Project Manager and Lead Developer on a C#/.NET WPF + PostgreSQL/EF Core client-server system managing 80+ production PCs, packaged as an MSI installer for one-step rollout. → [iris-capstone-project](https://github.com/Jeql88/iris-capstone-project)
-- **Real-time Room Reservation System @ SKANLOG** — Vue.js front-end and .NET backend with conflict-detection booking flow and an admin dashboard, on the same Azure stack.
+- **Talent Acquisition PLatform @ SKANLOG** — Vue.js front-end and .NET backend with Azure OpenAI, RAG Pipelines and Vector Embeddings on the same Azure stack.
+- **Room Reservation System @ SKANLOG** — Vue.js front-end and .NET backend with conflict-detection booking flow and an admin dashboard, on the same Azure stack.
 - **Collaborative Drawing Web App** — Multi-user whiteboard with sub-100ms canvas sync over Socket.IO, MongoDB session persistence, Dockerized. → [whitebored-frontend](https://whitebored-client.vercel.app)
 - **Hotel Management System** — Project Lead on a Go + Hasura + PostgreSQL microservices booking platform with JWT and role-based access.
 - **This portfolio** — Next.js, shadcn/ui, Gemini-backed RAG chatbot, deployed on Vercel. → [<PORTFOLIO_URL>](https://jeql8.vercel.app/)
